@@ -1,4 +1,28 @@
 h1 {
+text-align: center;
+color: blue;
+}
+
+ button {
+border-radius: 30px;
+padding: 20px;
+margin: 0 auto;
+color: blue;
+display: block; 
+background-color: blue;
+color: white;
+}
+
+
+div.form
+{
+    display: block;
     text-align: center;
-    color: blue;
-    }
+}
+
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
